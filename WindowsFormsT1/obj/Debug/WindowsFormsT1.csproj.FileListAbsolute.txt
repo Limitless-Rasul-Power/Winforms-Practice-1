@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\bin\Debug\WindowsFormsT1.exe.config
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\bin\Debug\WindowsFormsT1.exe
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\bin\Debug\WindowsFormsT1.pdb
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.exe
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.pdb
+C:\Users\Admin\source\repos\WindowsFormsT1\WindowsFormsT1\obj\Debug\WindowsFormsT1.Form2.resources
